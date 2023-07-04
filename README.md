@@ -6,7 +6,9 @@ Contexte : Two of the many scripts I wrote on Google App Script when I was an in
 In order to simplify the task management, I built the webhook which enters the task information into the sheet and the larkbot which informs the task-related translators evertime a task is published or finished.
 
 Lokalise : https://lokalise.com/
-Lark : Business chat tool like Teams developped by ByteDance, widely used in China. https://www.larksuite.com/en_eu
+
+Lark : Business chat tool like Teams developped by ByteDance, widely used in China. 
+https://www.larksuite.com/en_eu
 
 
 Normally I don't (and am not allowed to) publish scripts I wrote during the Internship. My leader finally got a service on google cloud and my scripts are now unused, I'm therefore able to publish them.
